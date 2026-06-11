@@ -10,7 +10,7 @@ numpy==1.26.4
 pillow==12.2.0
 sc2reader==1.8.0
 sympy==1.12
-torch==2.8.0
+torch==2.12.0
 torchaudio==2.2.2+cu121
 torchvision==0.17.2+cu121
 tqdm==4.66.4
